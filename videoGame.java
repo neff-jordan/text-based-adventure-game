@@ -320,7 +320,7 @@ public class videoGame {
 			}
 			
 			System.out.println("---------------------------------------");
-			System.out.println(" # The" + raidriar + " was defeated! # ");
+			System.out.println(" # The " + raidriar + " was defeated! # ");
 			System.out.println(" # You have saved the world from his tyranical reign! # ");
 			break;
 			
