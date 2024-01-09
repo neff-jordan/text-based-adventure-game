@@ -6,4 +6,4 @@ Level 1: You must slay as many enemies as possible in order to obtain health pot
 
 Level 2: Slay the wandering beasts that protect the temple on the top of the mountain. They have something you need to continue... 
 
-Level 3: You are face-to-face with the God King. If you are strong enough to beat him, the people will forever be indebted to you. 
+Level 3: You are face-to-face with the God King. If you are strong enough to beat him, the people under his tyranical rule will forever be indebted to you. 
